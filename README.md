@@ -9,7 +9,7 @@ This project is based on the FreeCodeCamp (FCC) Scientific Computing with Python
 
 ## Features
 The program processes the input string using the following steps:
-* **Normalization**: Removes spaces or dashes using str.maketrans and translate.
+* **Normalization**: Removes spaces or dashes using `str.maketrans` and translate.
 * **Reversal**: Reverses the number string to process it from right to left.
 * **Odd Digits**: Sums up the digits in odd positions.
 * **Even Digits**: Multiplies digits in even positions by 2. If the result is $\ge 10$, it sums the digits of the result (e.g., $14$ becomes $1 + 4 = 5$) before adding to the total.
